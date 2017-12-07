@@ -33,6 +33,15 @@ function greeting( obj ) {
 
   // CODE HERE
 
+  function totalPopulation(obj) {
+    let obj = {
+      prop1: prop1;
+      prop2: prop2;
+      prop3: prop3;
+      prop4: prop4;
+    }
+  }
+
 
 // ========================
 
@@ -41,7 +50,14 @@ function greeting( obj ) {
 
   // CODE HERE
 
+ingredients(obj){
+  let obj = {
+    carb: carb;
+    fat: fat;
+    protein: protein;
 
+  }
+}
 // ========================
 
 
